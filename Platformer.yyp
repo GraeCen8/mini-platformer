@@ -25,6 +25,8 @@
   "name":"Platformer",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

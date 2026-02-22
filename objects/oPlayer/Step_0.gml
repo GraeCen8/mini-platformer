@@ -1,5 +1,5 @@
 var MVspd = 0.1
-var TRNspd = 8
+var TRNspd = 5
 
 if keyboard_check(vk_up)
 {

@@ -19,6 +19,7 @@
     {"name":"inst_5A868A03","path":"rooms/Room/Room.yy",},
     {"name":"inst_6E205932","path":"rooms/Room/Room.yy",},
     {"name":"inst_37B1E271","path":"rooms/Room/Room.yy",},
+    {"name":"inst_2005E78F","path":"rooms/Room/Room.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -37,6 +38,7 @@
         {"$GMRInstance":"v4","%Name":"inst_5A868A03","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5A868A03","objectId":{"name":"oAsteroid","path":"objects/oAsteroid/oAsteroid.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-5.510111,"scaleX":1.5,"scaleY":1.5,"x":832.0,"y":864.0,},
         {"$GMRInstance":"v4","%Name":"inst_6E205932","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E205932","objectId":{"name":"oAsteroid","path":"objects/oAsteroid/oAsteroid.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-5.510111,"scaleX":1.5,"scaleY":1.5,"x":160.0,"y":800.0,},
         {"$GMRInstance":"v4","%Name":"inst_37B1E271","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37B1E271","objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":1.4211884,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":416.0,},
+        {"$GMRInstance":"v4","%Name":"inst_2005E78F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2005E78F","objectId":{"name":"oGame","path":"objects/oGame/oGame.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

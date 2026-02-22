@@ -25,6 +25,8 @@
   "name":"Platformer",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sAsteroid1","path":"sprites/sAsteroid1/sAsteroid1.yy",},},
+    {"id":{"name":"sAsteroid2","path":"sprites/sAsteroid2/sAsteroid2.yy",},},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
   ],
